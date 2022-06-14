@@ -1,0 +1,24 @@
+
+li{
+    display: inline;
+    text-align: left;
+}
+
+a{
+    color: rgb(81, 81, 81);
+    text-decoration: none;
+    margin-right: 65px;
+    margin-left: -45px;
+}
+
+p{
+    display: inline;
+}
+/*
+p:hover{
+    font-weight: bold;
+    color: rgb(33, 60, 117);
+}
+a:hover{
+    margin-right: 16px;
+}
