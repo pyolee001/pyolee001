@@ -14,11 +14,8 @@ a{
 p{
     display: inline;
 }
-/*
+
 p:hover{
     font-weight: bold;
     color: rgb(33, 60, 117);
-}
-a:hover{
-    margin-right: 16px;
 }
